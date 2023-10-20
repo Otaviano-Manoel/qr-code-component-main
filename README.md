@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 **Trocar os links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/utilizei-o-positionabsolute-para-centralizar-no-centro-da-tela-z2muDrt1yH)
 - Live Site URL: [Add live site URL here](https://otaviano-manoel.github.io/qr-code-component-main/)
 
 ## My process
