@@ -1,0 +1,6 @@
+@media (max-width: 576px) {
+    .attribution p{
+        line-height: 10px;
+        display: block;
+    }    
+}
