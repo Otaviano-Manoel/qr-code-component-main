@@ -2,9 +2,11 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+
 ## Table of contents
 
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -16,23 +18,29 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
 ### Screenshot
 
-![Screenshot of desktop screen](./src/images/screenshot-desktop.png)
-![Mobile screen screenshot](./src/images/screenshot-mobile.png)
+![screen desktop](./src/images/screenshot-desktop.png)
+![screen mobile](./src/images/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/utilizei-o-positionabsolute-para-centralizar-no-centro-da-tela-z2muDrt1yH)
-- Live Site URL: [Add live site URL here](https://otaviano-manoel.github.io/qr-code-component-main/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/utilizei-o-positionabsolute-para-centralizar-no-centro-da-tela-z2muDrt1yH)
+- Live Site URL: [Live site URL here](https://otaviano-manoel.github.io/qr-code-position-absolute/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Mobile-first workflow
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
 
 ### What I learned
 
@@ -51,12 +59,14 @@ I learned it through DevQuest, and I really liked the outcome.
 
 ### Continued development
 
-I will continue to work on HTML and CSS projects to improve myself. In the future, I plan to implement JavaScript in my projects.
+In my next project, I will use the `display: flex` for element alignment.
 
 ### Useful resources
+- [W3Schools](https://www.w3schools.com/css/default.asp) - 
+I used W3Schools to clarify my doubts and I really liked their examples, which clarify how to use CSS properties.
 
-- [responsive-viewer](https://github.com/skmail/responsive-viewer) - This helped me because it displays various screen resolutions, which is very helpful for page responsiveness. I really liked this extension and plan to use it in my future projects.
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/) - I'd like you to get to know MDN Web Docs, which helped me a lot in understanding HTML tags.
 
 ## Author
 
-- Frontend Mentor - [@Otaviano-Manoel](https://www.frontendmentor.io/profile/Otaviano-Manoel)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Otaviano-Manoel)
